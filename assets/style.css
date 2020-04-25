@@ -9,6 +9,10 @@
 	height: auto;
 }
 
+iframe{
+color: grey;
+}
+
 header{
 	text-align: center;
 	background: #fff;
@@ -111,6 +115,7 @@ input{
 
 .message{
 	height: 100px;
+	margin-bottom: 20px;
 }
 
 .name{
@@ -157,6 +162,6 @@ input{
 	height: 400px;
 	margin-left: 20px;
 	align-items: right;
-	background: cyan;
+	background: #fff;
 	margin-bottom: 30px;
 }
