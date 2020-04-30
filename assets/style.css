@@ -205,7 +205,9 @@ input{
 }
 
 .map-container{
-	width: 500px;
+	display: flex;
+	flex-direction: row;
+	width: 800px;
 	height: 400px;
 	margin-left: 20px;
 	align-items: right;
